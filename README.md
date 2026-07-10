@@ -11,7 +11,7 @@ Saya adalah seorang pengembang perangkat lunak yang memiliki keahlian mendalam d
 - 💡 **Keahlian Utama:** Membangun *API* berkinerja tinggi dengan Node.js dan menciptakan pengalaman *frontend* yang *pixel-perfect*.
 - 🌱 **Eksplorasi:** Menggabungkan rekayasa perangkat lunak dengan teknologi terapan (IoT, Arduino, Smart Aerator).
 - 💬 Tanya saya tentang: **JavaScript, Node.js, Arsitektur Frontend, dan Integrasi IoT.**
-- 📫 Hubungi saya via: [Email Kamu](mailto:rintisid@dgmail.com) atau [Instagram Profil](https://instagram.com/cak_katrok).
+- 📫 Hubungi saya via: [rintisid@gmail.com](mailto:rintisid@dgmail.com) atau [Instagram Profil](https://instagram.com/cak_katrok).
 
 ---
 
